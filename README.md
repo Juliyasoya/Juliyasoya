@@ -34,7 +34,7 @@ I build clean, responsive, and interactive web interfaces using HTML, CSS, JavaS
 | Project | Description | Stack |
 | --- | --- | --- |
 | [SafeNature](https://github.com/Juliyasoya/Website_SafeNature) | Responsive landing page about nature conservation, built from a Figma design. | HTML, CSS |
-| [BurgerCafe](https://github.com/Juliyasoya/Website_BurgerCafe) | Responsive café landing page, built from a Figma design. | HTML, CSS |
+| [BurgerCafe](https://github.com/Juliyasoya/Website_BurgerCafe) | Responsive café landing page, built from a Figma design. | HTML, CSS, JavaScript |
 
 ---
 
