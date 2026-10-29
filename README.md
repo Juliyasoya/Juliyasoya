@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Juliyasoya/Juliyasoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yoaty 👋
 
-Here are some ideas to get you started:
+### Junior Frontend Developer · Building for the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build clean, responsive, and interactive web interfaces using HTML, CSS, JavaScript, and React.
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_me-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Yoaty)
+
+</div>
+
+---
+
+### 🛠️ Tech stack
+
+**Working with**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+
+**Currently learning**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 📌 Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [SafeNature](https://github.com/Juliyasoya/Website_SafeNature) | Responsive landing page about nature conservation, built from a Figma design. | HTML, CSS |
+| [BurgerCafe](https://github.com/Juliyasoya/Website_BurgerCafe) | Responsive café landing page, built from a Figma design. | HTML, CSS |
+
+---
+
+### 🌱 What I'm focusing on
+
+- Deepening my JavaScript and React skills through practical projects.
+- Improving responsive layouts, accessibility, and code structure.
+- Growing my portfolio through hands-on projects.
+
+---
+
+<div align="center">
+
+**Let's connect!**
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Yoaty-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Yoaty)
+
+</div>
